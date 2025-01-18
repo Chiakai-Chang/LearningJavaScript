@@ -1,0 +1,2 @@
+# LearningJavaScript
+記錄自己學JavaScript時做的小程式
